@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legendom1805
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning SIEM Tools, LINUX, SQL, Python, Network Protocol Analyzers (Packet Sniffing Tools).
+- 👀 I’m interested in Web Development and Cyber Secuirty 
+- 🌱 I’m currently learning MERN Stack,SIEM Tools, LINUX, SQL, Python, Network Protocol Analyzers (Packet Sniffing Tools).
 - 📫 You can reach me through Gmail - omrawat1805@gmail.com
 
 <!---
